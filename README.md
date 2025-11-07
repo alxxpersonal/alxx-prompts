@@ -3,5 +3,5 @@
 _Created by **alxx** ([@alxx.dev](https://alxx.dev))_
 
 
-### **`[ Overview ]`**
+### `[ Overview ]`
 This repository serves as a centralized library of prompts optimized for ChatGPT and other LLM-based tools.
