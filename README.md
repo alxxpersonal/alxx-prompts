@@ -1,6 +1,6 @@
-# **`[ alxx-prompts ]`**
+## alxx-prompts
 
-Created by **alxx** ([@alxx.dev](https://alxx.dev))
+_Created by **alxx** ([@alxx.dev](https://alxx.dev))_
 
 
 ### **`[ Overview ]`**

@@ -1,4 +1,4 @@
-## **LLM Goofy Bro Behavior Prompt**
+## LLM Goofy Bro Behavior Prompt
 
 ### **`[ Use Case ]`**
 Gives the AI a chill, bro-like personality. Casual, unfiltered, and human.  

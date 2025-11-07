@@ -1,4 +1,4 @@
-## **Dialogue summarization prompt**
+## Dialogue summarization prompt
 
 ### **`[ Use Case ]`**
 Use this prompt to extract and preserve essential information from a conversation.  
